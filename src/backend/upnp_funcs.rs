@@ -5,7 +5,7 @@ use std::{
 };
 
 use igd_next::{Gateway, PortMappingProtocol};
-use log::{debug, error, info};
+use log::{debug, info};
 
 use super::upnp_structs::Mapping;
 
